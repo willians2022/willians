@@ -7,11 +7,7 @@ body {
 	font-family: "Poppins", sans-serif;
 	margin: 0 auto;
 	max-width: 1120px;
-<<<<<<< HEAD
 	background: linear-gradient(150deg, #220808, #2f00ff);
-=======
-	background: linear-gradient(150deg, #000000, #9e00ff);
->>>>>>> 3579cd313ab4b60721366a58ff101401e0b6ce8e
 	background-size: 120% 120%;
 }
 
@@ -32,20 +28,12 @@ body {
 	line-height: 55px;
 	font-family: "Raleway", sans-serif;
 	transition: 0.2s;
-<<<<<<< HEAD
 	
 }
 
 .cabecalho a:hover .logo {
 	color: #d8d8e7;
 	border: 2px solid #4345d8;
-=======
-}
-
-.cabecalho a:hover .logo {
-	color: #9443d8;
-	border: 2px solid #9443d8;
->>>>>>> 3579cd313ab4b60721366a58ff101401e0b6ce8e
 }
 
 .cabecalho .menu li a {
@@ -56,13 +44,8 @@ body {
 }
 
 .cabecalho .menu li a:hover {
-<<<<<<< HEAD
 	background-color: #4345d8;
 	color: #d8d8e7;
-=======
-	background-color: #9443d8;
-	color: #fff;
->>>>>>> 3579cd313ab4b60721366a58ff101401e0b6ce8e
 	border-radius: 50px;
 }
 
@@ -112,13 +95,8 @@ body {
 }
 
 .home .redes-sociais a i:hover {
-<<<<<<< HEAD
 	color: #d843b8;
 	border: 1px solid #d843b3;
-=======
-	color: #9443d8;
-	border: 1px solid #9443d8;
->>>>>>> 3579cd313ab4b60721366a58ff101401e0b6ce8e
 	transform: scale(1.1);
 }
 
@@ -133,11 +111,7 @@ body {
 }
 
 .home .foto.sombra-interna {
-<<<<<<< HEAD
 	background: linear-gradient(to right, #8a35c8, #181bc0, #00eea2);
-=======
-	background: linear-gradient(to right, #8a35c8, #18c063, #00eea2);
->>>>>>> 3579cd313ab4b60721366a58ff101401e0b6ce8e
 	background-size: 180% 180%;
 	animation: gradient-animation 5s ease infinite;    
 }
