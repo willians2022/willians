@@ -28,7 +28,7 @@ body {
 	line-height: 55px;
 	font-family: "Raleway", sans-serif;
 	transition: 0.2s;
-	
+
 }
 
 .cabecalho a:hover .logo {
@@ -94,9 +94,26 @@ body {
 	transition: 0.3s;
 }
 
-.home .redes-sociais a i:hover {
-	color: #d843b8;
-	border: 1px solid #d843b3;
+.home .redes-sociais .linkedin a i:hover {
+	color: #0A66C2;
+	border: 1px solid #0A66C2;
+	transform: scale(1.1);
+}
+
+.home .redes-sociais .whatsap a i:hover {
+	color: #25D366;
+	border: 1px solid #25D366;
+	transform: scale(1.1);
+}
+
+.home .redes-sociais .git a i:hover {
+	color: #F05032;
+	border: 1px solid #000000;
+	transform: scale(1.1);
+}
+.home .redes-sociais .insta a i:hover {
+	color: #833AB4;
+	border: 1px solid #833AB4;
 	transform: scale(1.1);
 }
 
@@ -113,7 +130,7 @@ body {
 .home .foto.sombra-interna {
 	background: linear-gradient(to right, #8a35c8, #181bc0, #00eea2);
 	background-size: 180% 180%;
-	animation: gradient-animation 5s ease infinite;    
+	animation: gradient-animation 5s ease infinite;
 }
 
 .projetos {
@@ -215,4 +232,14 @@ body {
 	100% {
 		background-position: 0% 50%;
 	}
+}
+
+footer {
+
+	color: white;
+	text-align: center;
+	padding: 10px 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
